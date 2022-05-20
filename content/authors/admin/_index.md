@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Stefan Tretter
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: LMU Munich
+    url: https://www.lmu.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a postdoctoral researcher at the chair of economic and organizational psychology.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - User Experience in Human-Computer Interaction
+  - Computer-mediated Communication
+  - Human Decision-Making Processes
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Psychology
+      institution: LMU Munich
+      year: 2021
+    - course: MSc in Economic, Organizational and Applied Social Psychology
+      institution: LMU Munich
+      year: 2013
+    - course: BSc in Psychology
+      institution: University of Regensburg
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
