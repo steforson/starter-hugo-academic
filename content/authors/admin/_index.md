@@ -14,13 +14,13 @@ organizations:
     url: https://www.lmu.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher at the chair of economic and organizational psychology.
+bio: I am a postdoctoral researcher in Economic and Organizational Psychology at LMU Munich.
 
 # Interests to show in About widget
 interests:
   - User Experience in Human-Computer Interaction
   - Computer-mediated Communication
-  - Human Decision-Making Processes
+  - Decision-Making Processes
 
 # Education to show in About widget
 education:
@@ -30,10 +30,10 @@ education:
       year: 2021
     - course: MSc in Economic, Organizational and Applied Social Psychology
       institution: LMU Munich
-      year: 2013
+      year: 2015
     - course: BSc in Psychology
       institution: University of Regensburg
-      year: 2010
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +42,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: mailto:stefan.tretter@lmu.de
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://www.psy.lmu.de/wirtschaftspsychologie/team/wissenschaftliche_mitarbeiter/stefan_tretter/index.html
+  - icon: orcid
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://orcid.org/0000-0002-7829-3494
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=yXIPgAEAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/stefan-tretter-63b303227
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -68,10 +68,11 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# To link resumé past following code below short bio
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a postdoctoral researcher in Economic and Organizational Psychology at LMU Munich. Within the subbranch of Market and Consumer Psychology I explore the thoughts, feelings, and behavior of people in their interaction with all kinds of products and particularly technologies. Currently, I work in a collaboration project on the aesthetics of technology interactions in public spaces funded by the DFG (German Research Foundation).
