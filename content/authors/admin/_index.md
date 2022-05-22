@@ -11,7 +11,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: LMU Munich
-    url: https://www.lmu.de/
+    url: https://www.lmu.de/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a postdoctoral researcher in Economic and Organizational Psychology at LMU Munich.
