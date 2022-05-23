@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 70
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Grants & Awards'
@@ -43,7 +43,7 @@ item:
   - certificate_url:
     date_end: ''
     date_start: '2018-10-31'
-    description: Grant awarded or the Implementation of Application-Oriented Teaching Projects
+    description: Grant awarded for the Implementation of Application-Oriented Teaching Projects
     organization: LMU Munich Faculty for Psychology and Pedagogy 
     organization_url: https://www.fak11.lmu.de/fakultaet/lmu_mentoring/index.html
     title: Teaching Grant "Lehre@LMU"

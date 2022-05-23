@@ -9,9 +9,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
-title: Experience
+title: Academic Career
 subtitle:
 
 # Date format for experience

@@ -49,6 +49,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-7829-3494
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Stefan-Tretter
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=yXIPgAEAAAAJ

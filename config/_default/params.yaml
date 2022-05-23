@@ -16,10 +16,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    local_business_type: 'Academic'
+    org_name: 'Dr. Stefan Tretter'
+    description: 'Homepage of Dr. Stefan Tretter'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}, browser tab logo created by Jonathan Coutino from the Noun Project'
     license:
       enable: true
       allow_derivatives: false

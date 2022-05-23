@@ -1,7 +1,7 @@
 ---
 
 widget: slider  # Use the Slider widget as this page section
-weight: 45  # Position of this section on the page
+weight: 40  # Position of this section on the page
 active: true  # Publish this section?
 headless: true  # This file represents a page section.
 
