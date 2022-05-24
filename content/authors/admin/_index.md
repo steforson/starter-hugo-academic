@@ -78,4 +78,4 @@ highlight_name: true
 
 ---
 
-I am a postdoctoral researcher in Economic and Organizational Psychology at LMU Munich. Within the subbranch of Market and Consumer Psychology I explore the thoughts, feelings, and behavior of people in their interaction with all kinds of products and particularly technologies. Currently, I work in a collaboration project on the aesthetics of technology interactions in public spaces funded by the DFG (German Research Foundation).
+I am a postdoctoral researcher in Economic and Organizational Psychology at LMU Munich. Within the subbranch of Market and Consumer Psychology I explore the thoughts, feelings, and behavior of people in their interaction with all kinds of products and technologies in particular. Currently, I work in a collaboration project on the aesthetics of technology interactions in public spaces funded by the DFG (German Research Foundation).
