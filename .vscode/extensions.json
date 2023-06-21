@@ -1,6 +1,6 @@
 {
     "recommendations": [
         "github.vscode-pull-request-github",
-        "GitHub.vscode-pull-request-github"
+        "ms-vscode.live-server"
     ]
 }
