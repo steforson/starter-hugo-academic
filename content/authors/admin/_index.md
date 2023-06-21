@@ -6,19 +6,20 @@ title: Dr. Stefan Tretter
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: User Experience & Marketing
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: LMU Munich
-    url: https://www.lmu.de/en/
+# organizations:
+  # - name: LMU Munich
+  # url: https://www.lmu.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher in Economic and Organizational Psychology at LMU Munich.
+bio: I am a former academic researcher in Economic and Organizational Psychology, now eager to embark on new horizons.
 
 # Interests to show in About widget
 interests:
   - User Experience in Human-Computer Interaction
+  - Market Research
   - Computer-mediated Communication
   - Decision-Making Processes
 
@@ -42,10 +43,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:stefan.tretter@lmu.de
+    link: mailto:contact@stefantretter.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://www.psy.lmu.de/wirtschaftspsychologie/team/wissenschaftliche_mitarbeiter/stefan_tretter/index.html
+    link: https://www.psy.lmu.de/wirtschaftspsychologie/team/assoziierte_wissenschaftler/stefan_tretter/index.html
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-7829-3494
@@ -78,4 +79,4 @@ highlight_name: true
 
 ---
 
-I am a postdoctoral researcher in Economic and Organizational Psychology at LMU Munich. Within the subbranch of Market and Consumer Psychology I explore the thoughts, feelings, and behavior of people in their interaction with all kinds of products and technologies in particular. Currently, I work in a collaboration project on the aesthetics of technology interactions in public spaces funded by the DFG (German Research Foundation).
+I am a former academic researcher in Economic and Organizational Psychology, now eager to embark on new horizons. Within the subbranch of Market and Consumer Psychology I explore the thoughts, feelings, and behavior of people in their interaction with all kinds of products and technologies in particular.
