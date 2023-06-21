@@ -9,7 +9,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
 title: Selected Courses
 subtitle:
@@ -18,7 +18,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Advanced Lecture (Undergraduate Level)
+  - description: Advanced Lecture (Graduate Level)
     icon: chalkboard-user
     icon_pack: fas
     name: Market and Consumer Psychology

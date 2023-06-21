@@ -9,9 +9,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
-title: Academic Career
+title: Career
 subtitle:
 
 # Date format for experience
@@ -63,13 +63,21 @@ experience:
     date_start: '2014-09-01'
     date_end: '2015-12-31'
 
-  - title: Student Research Assistant
+  - title: Internship Research Department
     company: University of Regensburg - Social, Work, Organizational and Economic Psychology
     company_url: 'https://www.uni-regensburg.de/humanwissenschaften/psychologie-fischer/startseite/index.html'
     company_logo: Universität_Regensburg_logo
     location: Munich
     date_start: '2012-08-27'
     date_end: '2012-10-13'
+
+  - title: Internship Human Resources
+    company: Kontron Modular Computers GmbH
+    company_url: 'https://www.kontron.de/'
+    company_logo: 500px-Kontron_Logo
+    location: Kaufbeuren
+    date_start: '2011-08-01'
+    date_end: '2011-09-01'
 
 design:
   columns: '2'

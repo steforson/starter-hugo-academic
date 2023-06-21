@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Grants & Awards'
@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url:
+    date_end: ''
+    date_start: '2023-04-01'
+    description: Special Recognition for contributing Outstanding Reviews for the premier international conference of Human-Computer Interaction
+    organization: CHI 2023 Conference Committee
+    organization_url: https://chi2023.acm.org/
+    title: Outstanding Reviewer CHI 2023
+    url:
   - certificate_url:
     date_end: ''
     date_start: '2022-01-01'
