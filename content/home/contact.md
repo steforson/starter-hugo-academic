@@ -24,21 +24,21 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: stefan.tretter@lmu.de
-  phone: +49 89 2180 6368
-  address:
-    street: Leopoldstrasse 13
-    city: Munich
-    region: Bavaria
-    postcode: '80802'
-    country: Germany
-    country_code: DE
-  coordinates:
-    latitude: '48.15607953920175'
-    longitude: '11.582974857672232'
-  directions: Office 3208
-  office_hours:
-    - 'By Appointment'
+  email: contact@stefantretter.com
+  # phone: +49 89 2180 6368
+  # address:
+  #  street: Leopoldstrasse 13
+  #  city: Munich
+  #  region: Bavaria
+  #  postcode: '80802'
+  #  country: Germany
+  #  country_code: DE
+  # coordinates:
+  #  latitude: '48.15607953920175'
+  #  longitude: '11.582974857672232'
+  # directions: Office 3208
+  # office_hours:
+  #   - 'By Appointment'
     # - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   # contact_links:
