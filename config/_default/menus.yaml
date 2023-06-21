@@ -16,14 +16,14 @@ main:
   - name: Publications
     url: '#publications_redirect'
     weight: 40
-  - name: Training
-    url: '#training'
+  - name: Development
+    url: '#development'
     weight: 50
   - name: Grants/Awards
     url: '#accomplishments'
     weight: 60
-  - name: Courses
-    url: '#courses'
+  - name: Teaching
+    url: '#teaching'
     weight: 70
   - name: Contact
     url: '#contact'

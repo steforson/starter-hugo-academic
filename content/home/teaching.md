@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: Selected Courses
+title: Teaching
 subtitle:
 
 # Showcase personal skills or business features.
