@@ -23,14 +23,24 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
+  
+  - title: Lecturer for Consumer Psychology
+    company: International School of Management
+    company_url: 'https://www.ism.de/'
+    company_logo: international_school_of_management
+    location: Munich
+    date_start: '2023-03-01'
+    date_end: ''
+
   - title: Postdoctoral Researcher
     company: LMU Munich - Economic and Organizational Psychology
     company_url: 'https://www.psy.lmu.de/wirtschaftspsychologie/index.html'
     company_logo: Gruen-logo_lmu2
     location: Munich
     date_start: '2021-11-14'
-    date_end: ''
+    date_end: '2023-05-31'
     # description: |2-
         # Responsibilities include:
         
