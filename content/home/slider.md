@@ -54,7 +54,7 @@ content:
         icon: envelope
         icon_pack: fas
         text: Contact
-        url: ../#contact/
+        url: 'mailto: contact@stefantretter.com'
     - title: BMBF Project
       content: ProFI - Prototyping for Innovation
       align: center

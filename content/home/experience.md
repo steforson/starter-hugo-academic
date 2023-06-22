@@ -63,6 +63,14 @@ experience:
     date_start: '2014-09-01'
     date_end: '2015-12-31'
 
+  - title: Internship Clinic for Forensic Psychiatry und Psychotherapy 
+    company: District Hospital Regensburg
+    company_url: 'https://www.medbo.de/kliniken-einrichtungen/massregelvollzug/forensische-klinik'
+    company_logo: district_hospital_regensburg
+    location: Regensburg
+    date_start: '2013-02-01'
+    date_end: '2013-03-01'
+
   - title: Internship Research Department
     company: University of Regensburg - Social, Work, Organizational and Economic Psychology
     company_url: 'https://www.uni-regensburg.de/humanwissenschaften/psychologie-fischer/startseite/index.html'
