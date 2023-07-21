@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://www.mdpi.com/journal/psych/awards.pdf/0/pdf_343_2022_1_award_64b0f3e283b64.pdf
+    date_end: ''
+    date_start: '2023-07-17'
+    description: Best Thesis Award for the Dissertation "Psychological Underpinnings of Communication Channel Choice in Socio-Emotional Contexts"
+    organization: Psych
+    organization_url: https://www.mdpi.com/journal/psych
+    title: Psych 2022 Best Thesis Award
+    url:
   - certificate_url:
     date_end: ''
     date_start: '2023-04-01'
