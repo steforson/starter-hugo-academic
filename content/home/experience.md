@@ -85,7 +85,7 @@ experience:
     company: University of Regensburg - Social, Work, Organizational and Economic Psychology
     company_url: 'https://www.uni-regensburg.de/humanwissenschaften/psychologie-fischer/startseite/index.html'
     company_logo: Universität_Regensburg_logo
-    location: Munich
+    location: Regensburg
     date_start: '2012-08-27'
     date_end: '2012-10-13'
 
