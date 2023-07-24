@@ -48,7 +48,7 @@ experience:
         # * Modelling
         # * Deploying
 
-  - title: PhD Student, Research and Teaching Assistant
+  - title: Research Fellow, Lecturer, and PhD Student
     company: LMU Munich - Economic and Organizational Psychology
     company_url: 'https://www.psy.lmu.de/wirtschaftspsychologie/index.html'
     company_logo: Gruen-logo_lmu2
