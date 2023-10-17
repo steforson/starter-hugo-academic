@@ -25,6 +25,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url:
+    date_end: '2023-10-01'
+    date_start: '2023-09-01'
+    description: Certified knowledge of basic project management methods and competencies for effective project contribution
+    organization: German Project Management Association (GPM)
+    organization_url: https://www.gpm-ipma.de/
+    title: Project Management Certificate (Foundation Level)
+    url:
+  - certificate_url:
+    date_end: '2023-09-01'
+    date_start: '2023-08-01'
+    description: Certified professional and trainer of core Usability and User Experience concepts (e.g., human-centered design process, specifying user requirements, usability testing)
+    organization: User Experience Qualification Board (UXQB)
+    organization_url: https://uxqb.org/en/
+    title: Certified Professional for Usability and User Experience
+    url:
+  - certificate_url:
     date_end: '2023-01-01'
     date_start: '2022-06-01'
     description: Participation in a comprehensive professional development curriculum (more than 40 hours) in the areas of leadership, collaboration, teaching and communication
