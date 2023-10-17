@@ -32,7 +32,7 @@ experience:
     company_logo: international_school_of_management
     location: Munich
     date_start: '2023-03-01'
-    date_end: ''
+    date_end: '2023-08-31'
 
   - title: Postdoctoral Researcher
     company: LMU Munich - Economic and Organizational Psychology

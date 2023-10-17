@@ -28,7 +28,7 @@ item:
     date_end: '2023-10-01'
     date_start: '2023-09-01'
     description: Certified knowledge of basic project management methods and competencies for effective project contribution
-    organization: German Project Management Association (GPM)
+    organization: German Project Management Association
     organization_url: https://www.gpm-ipma.de/
     title: Project Management Certificate (Foundation Level)
     url:
@@ -36,7 +36,7 @@ item:
     date_end: '2023-09-01'
     date_start: '2023-08-01'
     description: Certified professional and trainer of core Usability and User Experience concepts (e.g., human-centered design process, specifying user requirements, usability testing)
-    organization: User Experience Qualification Board (UXQB)
+    organization: User Experience Qualification Board
     organization_url: https://uxqb.org/en/
     title: Certified Professional for Usability and User Experience
     url:
